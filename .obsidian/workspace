@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Note 1.md",
+            "file": "2022-08-03.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note 1.md",
+                "file": "2022-08-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note 1.md",
+                "file": "2022-08-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note 1.md"
+                "file": "2022-08-03.md"
               }
             }
           }
@@ -130,8 +130,8 @@
   },
   "active": "a587a94e6dc620aa",
   "lastOpenFiles": [
-    "2022-08-03.md",
     "Note 1.md",
+    "2022-08-03.md",
     "README.md"
   ]
 }
